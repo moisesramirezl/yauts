@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle yauts",
+        "command": "yauts:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "yauts",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "yauts:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

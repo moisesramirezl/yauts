@@ -1,0 +1,18 @@
+{
+  "name": "yauts",
+  "main": "./lib/yauts",
+  "version": "0.0.0",
+  "description": "Unit Test Switcher",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "yauts:toggle"
+  },
+  "repository": "https://github.com/moisesramirezl/yauts.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
